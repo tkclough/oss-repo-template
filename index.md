@@ -1,8 +1,11 @@
 # Open Source Software - Summer 2019
-## (( Your Name Here ))
+## Tim Clough
 
 ## Bio
-(( Put a little bit about yourself here! Also include a photo. ))
+Hi, I'm Tim. My hobbies include:
+* Spending the best months of the year in classrooms
 
+Here's a rotated picture of me.
+![me](me.jpg)
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
