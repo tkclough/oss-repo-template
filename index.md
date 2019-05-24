@@ -8,7 +8,7 @@ Hi, I'm Tim. My hobbies include:
 Here's a rotated picture of me.
 ![me](me.jpg)
 
-Mattermost handle: `tkclough`.
+Mattermost handle: `tkclough`
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
 
