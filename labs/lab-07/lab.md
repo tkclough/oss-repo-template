@@ -303,33 +303,44 @@ In order to allow for unordered implementation, we just have to edit `edit_dista
 
 This gives us the following results:
 ```
-Loaded words_dat.txt containing 2174 five-letter English words.
+Loaded words_dat.txt containing 5757 five-letter English words.
 Two words are connected if they differ in one letter.
-Graph has 2174 nodes with 37895 edges
-7 connected components
-Shortest path between cold and warm is
-cold
-clad
-clam
-cram
-warm
-Shortest path between love and hate is
-love
-aloe
-late
-hate
-Shortest path between good and evil is
-good
-doge
-dove
-dive
-evil
-Shortest path between pear and beef is
-pear
-fare
-reef
-beef
-Shortest path between make and take is
-make
-take
+Graph has 5757 nodes with 112278 edges
+16 connected components
+Shortest path between chaos and order is
+chaos
+chose
+chore
+coder
+order
+Shortest path between nodes and graph is
+nodes
+anode
+agone
+anger
+gaper
+graph
+Shortest path between moron and smart is
+moron
+manor
+roams
+smart
+Shortest path between flies and swims is
+flies
+isles
+semis
+swims
+Shortest path between mango and peach is
+mango
+conga
+nacho
+poach
+peach
+Shortest path between pound and marks is
+pound
+mound
+monad
+moans
+roams
+marks
 ```.
