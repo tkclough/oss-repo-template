@@ -5,7 +5,7 @@ I had some trouble running `apt-get update` - I think it's because I'm running L
 This step went off pretty much without a hitch; I did have to do `sudo docker run`, which is kind of non-ideal. I added myself to the docker group (`sudo usermod -aG docker tim`), but it wasn't reflecting when I listed the groups I am in. Then, I realized I needed to log back in, because changes don't take place until then.
 
 # Step 2
-This step didn't work... I was able to run the db and rocketchat containers, but I was unable to connect to `localhost:3000`.
+![rocket-chat.png](rocket-chat.png)
 
 # Step 3
 ![hello-rcos.png](hello-rcos.png)
